@@ -14,9 +14,9 @@ This project implements the required multi-threaded architecture using **six** d
 * **Concurrent Boot Sequence:** The dedicated `StartupTask` runs the LED flash, buzzer tone, and servo sweep simultaneously upon boot.
 
 
-<img width="500" height="468" alt="image" src="https://github.com/user-attachments/assets/e169e6d7-a9c4-47a0-8e26-5ffbb3b17171" />
-<img width="500" height="468" alt="image" src="https://github.com/user-attachments/assets/5ee28670-bfcb-4122-8eae-bd00c2263cf9" />
-<img width="500" height="468" alt="image" src="https://github.com/user-attachments/assets/6b4aadee-08c9-470d-af97-f7c34393b1e7" />
+<img width="400" height="368" alt="image" src="https://github.com/user-attachments/assets/e169e6d7-a9c4-47a0-8e26-5ffbb3b17171" />
+<img width="400" height="368" alt="image" src="https://github.com/user-attachments/assets/5ee28670-bfcb-4122-8eae-bd00c2263cf9" />
+<img width="400" height="368" alt="image" src="https://github.com/user-attachments/assets/6b4aadee-08c9-470d-af97-f7c34393b1e7" />
 
 ## 🛠️ Hardware & Pin Assignment
 
